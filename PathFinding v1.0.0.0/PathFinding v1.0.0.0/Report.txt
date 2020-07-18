@@ -1,9 +1,0 @@
-Hand Rule Search	17954	3924	33189	251900
-Dijkstra's Search Algorithm	0	64	1827	5
-Dijkstra's Search Algorithm	0	64	1827	6
-A* Search	0	64	53	1
-Jump Point Search	0	63	8	2
-A* Search	0	64	53	11654
-Dijkstra's Search Algorithm	0	107	2812	10
-A* Search	0	107	946	15
-A* Search	0	107	946	8444
